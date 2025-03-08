@@ -5,6 +5,7 @@ This is a simple DNS changer based on Qt6.8 and written with C++.
 **Requirements:**
 
 a Linux Distribution that supports `Qt6.8`
+
 a privileged user (sudo)
 
 **Tested On:**
